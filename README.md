@@ -12,27 +12,26 @@
 
 ### 项目架构
 
-![image](https://github.com/baichenbo/IntelligentBI/assets/66836966/b221a27e-2070-42fe-9631-3cd8e59968f5)
-
+![img_7.png](img_7.png)
 
 ## 功能截图
 登陆界面
-![image](https://github.com/baichenbo/IntelligentBI/assets/66836966/3c893b9c-19f8-4618-b484-fc9c908c1863)
+![img_1.png](img_1.png)
 
 注册界面
-![image](https://github.com/baichenbo/IntelligentBI/assets/66836966/44b1107a-5cb0-4323-8bd1-0a8f70a2c6cb)
+![img_2.png](img_2.png)
 
 主界面
-![image](https://github.com/baichenbo/IntelligentBI/assets/66836966/8cdb8ca0-7f9f-49ff-af0e-78e4e16de656)
+![img_3.png](img_3.png)
 
 同步分析
-![image](https://github.com/baichenbo/IntelligentBI/assets/66836966/92fba43c-217f-4585-b0a5-0901095b3af7)
+![img_4.png](img_4.png)
 
 异步分析
-![image](https://github.com/baichenbo/IntelligentBI/assets/66836966/aa9bad14-87d6-4193-9584-08980c2d1850)
+![img_5.png](img_5.png)
 
 我的图表
-![image](https://github.com/baichenbo/IntelligentBI/assets/66836966/9d418b1b-dd0d-4bec-b2e5-5b60c222eaa0)
+![img_6.png](img_6.png)
 
 
 
