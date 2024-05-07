@@ -9,4 +9,4 @@ COPY src ./src
 RUN mvn package -DskipTests
 
 # Run the web service on container startup.
-CMD ["java","-jar","/app/target/yubi-backend-0.0.1-SNAPSHOT.jar","--spring.profiles.active=prod"]
+CMD ["java","-jar","/app/target/IntelligentBi-backend-0.0.1-SNAPSHOT.jar","--spring.profiles.active=prod"]
